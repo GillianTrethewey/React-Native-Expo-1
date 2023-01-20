@@ -133,7 +133,7 @@ package-lock.json
 # Visual studio
 .vscode
 .vs
-
+.prettierrc
 # Android memory profiler files
 *.hprof
 
@@ -142,3 +142,4 @@ package-lock.json
 
 # macOS
 .DS_Store
+yarn.lock
